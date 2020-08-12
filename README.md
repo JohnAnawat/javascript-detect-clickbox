@@ -1,2 +1,2 @@
 # javascript-detect-clickbox
-pure javascript detect clickbox
+this project use pure javascript detect clickbox
