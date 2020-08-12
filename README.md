@@ -1,0 +1,1 @@
+<!-- pure javascript detect clickbox -->
